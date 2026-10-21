@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420">
+<defs><radialGradient id="core"><stop stop-color="#fff"/><stop offset=".25" stop-color="#bdfaff"/><stop offset=".6" stop-color="#55dfff"/><stop offset="1" stop-color="#0874a1"/></radialGradient><filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<circle cx="210" cy="210" r="174" fill="#101923" stroke="#55dfff" stroke-width="3" stroke-dasharray="210 16 70 18" filter="url(#glow)"/>
+<circle cx="210" cy="210" r="142" fill="none" stroke="#f4b942" stroke-width="3" stroke-dasharray="120 12 80 14"/>
+<circle cx="210" cy="210" r="105" fill="#0d1a25" stroke="#55dfff" stroke-width="5" stroke-dasharray="25 9"/>
+<path d="M210 123 L286 167 L286 253 L210 297 L134 253 L134 167 Z" fill="none" stroke="#55dfff" stroke-width="4" opacity=".8"/>
+<circle cx="210" cy="210" r="63" fill="url(#core)" filter="url(#glow)"/>
+<circle cx="210" cy="210" r="39" fill="none" stroke="#fff" stroke-width="2" opacity=".8"/>
+<path d="M210 171 L226 203 L210 195 L194 203 Z M210 249 L194 217 L210 225 L226 217 Z" fill="#fff" opacity=".9"/>
+<g fill="#f4b942"><circle cx="210" cy="35" r="5"/><circle cx="385" cy="210" r="5"/><circle cx="210" cy="385" r="5"/><circle cx="35" cy="210" r="5"/></g>
+</svg>
